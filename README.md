@@ -70,7 +70,4 @@ python3 main.py
 - Brute Force is simple but becomes very slow with larger data.
 - FP-Growth provides a fast alternative using tree-based mining.
 
-## Author
-Kenil Pravinbhai Avaiya  
-NJIT CS 634 - Data Mining  
-October 2025
+
